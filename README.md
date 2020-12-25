@@ -5,6 +5,12 @@
 关键词	对数几率回归；心脏病，预测算法
 
 
-环境
-Jupyter Notebook
+安装环境
+Jupyter笔记本
 python 3.7.6
+编译环境
+sklearn1.3
+sns
+numpy
+
+运行截图
